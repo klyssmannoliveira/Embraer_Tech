@@ -1,0 +1,20 @@
+.linha {
+  display: flex;
+  margin-top: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  justify-content: space-around;
+  background-color: #777;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #555;
+}
+
+.App {
+  margin: auto;
+  max-width: 900px;
+}
